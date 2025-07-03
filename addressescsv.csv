@@ -1,4 +1,4 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)/s)
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟(毫秒),下载速度(MB/s)
 77.105.147.79,443,true,FRA,Europe,Frankfurt,181,0.97
 77.223.96.158,443,true,DME,Europe,Moscow,136,0.96
 77.223.96.232,443,true,ARN,Europe,Stockholm,146,0.96
